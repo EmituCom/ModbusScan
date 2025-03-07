@@ -1,0 +1,26 @@
+{
+  "name": "ModbusScan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "12.js",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
+    "inquirer": "^12.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmituCom/ModbusScan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmituCom/ModbusScan/issues"
+  },
+  "homepage": "https://github.com/EmituCom/ModbusScan#readme"
+}
