@@ -2,6 +2,8 @@
 
 This project is a tool for scanning and reading Modbus devices. It supports both RTU and TCP connections and allows users to configure the connection and registers to be read through JSON configuration files.
 
+![ ] (img/ezgif.com-video-to-gif-converter.mp4)
+
 ## Features
 
 - Supports Modbus RTU and TCP protocols.
@@ -12,11 +14,13 @@ This project is a tool for scanning and reading Modbus devices. It supports both
 
 ## Usage
 
-1. Create a configuration file in the `Configs` folder.
+1. To start the application:
+  - Open the terminal and navigate to the project directory.
+  - Run the command `start node nameOfFile.js` or 'node nameOfFile.js'to start the application.
 2. Specify the connection type, parameters, and registers to read.
 3. Run the script with the configuration file as input.
-4. Saves the last configuration used in the `Configs` folder.
-5. The script will read the specified registers and print the results to the console.
+4. The application will connect to the Modbus device and read the specified registers.
+
 
 ## Software
 
@@ -30,15 +34,10 @@ This project is a tool for scanning and reading Modbus devices. It supports both
 ## Requirements
 
 - 'node 8.17.0';
-- 'blessed' library;
-- 'modbus-serial ^7.8.0' library;
-
 
 ## Installation
 
-
-
-
+- npm install;
 
 
 # Configs
