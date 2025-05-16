@@ -2,7 +2,7 @@
 
 This project is a tool for scanning and reading Modbus devices. It supports both RTU and TCP connections and allows users to configure the connection and registers to be read through JSON configuration files.
 
-![Modbus] (https://github.com/EmituCom/ModbusScan/blob/main/img/ezgif.com-video-to-gif-converter.mp4)
+![Modbus] (https://github.com/EmituCom/ModbusScan/blob/main/img/ezgif.com-video-speed.mp4)
 
 ## Features
 
