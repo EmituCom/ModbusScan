@@ -87,7 +87,6 @@ This should contain the IP address and the port of the device.
       "unitId": 1
     }
 }
-```
 
 #### Registers
 
