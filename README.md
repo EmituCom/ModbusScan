@@ -66,10 +66,10 @@ depending on the type of connection.
 ```json
 {
    "connection": {
-        parity: "none",
-        databits: 8,
-        stopbits: 2,
-        baudrate: 9600
+        "parity": "none",
+        "databits": 8,
+        "stopbits": 2,
+        "baudrate": 9600
     }
 }
 
