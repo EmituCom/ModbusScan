@@ -2,7 +2,8 @@
 
 This project is a tool for scanning and reading Modbus devices. It supports both RTU and TCP connections and allows users to configure the connection and registers to be read through JSON configuration files.
 
-![Modbus] (https://raw.githubusercontent.com/EmituCom/ModbusScan/refs/heads/main/img/modbus.gif)
+![Modbus](https://raw.githubusercontent.com/EmituCom/ModbusScan/main/img/modbus.gif)
+
 
 ## Features
 
