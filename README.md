@@ -112,21 +112,6 @@ structured as follows.
 * **register** -> The actual register to read.
 * **description** -> A description of the register
 
-```json
-{
-    "registers": [
-      {
-        "type": "f",
-        "isLE": false,
-        "function": "3",
-        "register": 9310,
-        "multiplier": 0.001,
-        "description": "frequency"
-      }
-    ]
-}
-```
-
 ## Example file
 
 
