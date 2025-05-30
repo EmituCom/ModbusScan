@@ -1,0 +1,14 @@
+{
+  "serialCom": "/dev/ttyACM0",
+  "startAddress": "0",
+  "address": "123",
+  "function": "03-Read Holding Registers",
+  "baudRate": "9600",
+  "architecture": "Little Endian",
+  "signal": "Unsigned",
+  "type": "Int",
+  "parity": "None",
+  "stopBits": "2",
+  "dataBits": "8",
+  "description": ""
+}

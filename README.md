@@ -22,16 +22,6 @@ This project is a tool for scanning and reading Modbus devices. It supports both
 3. Run the script with the configuration file as input.
 4. The application will connect to the Modbus device and read the specified registers.
 
-
-## Software
-
-- VS Code;
-- Node.js;
-- Open ModSim (for testing purposes);
-- Figma (for design purposes);
-- Git (for version control);
-- GitHub (for hosting the repository);
-
 ## Requirements
 
 - 'node 8.17.0';

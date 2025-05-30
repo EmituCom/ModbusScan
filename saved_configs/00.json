@@ -1,0 +1,7 @@
+{
+  "connectionType": "TCP",
+  "ipAddress": "127.0.0.1",
+  "port": "502",
+  "slaveId": "1",
+  "description": ""
+}
